@@ -1,0 +1,1 @@
+''' We will add stats on projection of generation of power over a certain time frame. '''
