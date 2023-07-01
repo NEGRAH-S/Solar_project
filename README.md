@@ -4,5 +4,5 @@ I am planning to make a web based dashboard that will show real time status for 
 If any one interesteed to join to collab can ping me at Email or LinkedIn.
 
 
-## Wamt to make it for my Major Project 
+## Want to make it for my Major Project 
 If anyone want to contribute or co-develop can freely reach out to me 
