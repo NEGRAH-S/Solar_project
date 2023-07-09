@@ -5,6 +5,7 @@ If any one interesteed to join to collab can ping me at Email or LinkedIn [NEGRA
 
 ## Execution
 The exucution will take part in various steps so once each step or schedule will be completed a version will be released in form of tags. 
-There is a slight delay in development due to no help for front end and also due to end-tern exam(s)
+There is a slight delay in development due to no help for front end and also due to end-tern exam(s) that is being conducted in University.
+
 ## Want to make it for my Major Project 
 If anyone want to contribute or co-develop can freely reach out to me. 
